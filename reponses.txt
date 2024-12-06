@@ -1,0 +1,4 @@
+16. Docker est un outil qui permet de créer et exécuter des conteneurs, des environnements isolés pour les applications. Il sert à rendre une application "bougeable" et à éviter les problèmes de compatibilité entre machines. Avec Docker, tout ce dont une application a besoin (code, dépendances) est inclus dans un conteneur, ce qui facilite le déploiement et le travail en équipe.
+
+
+17. CI (Continuous Integration) automatise les tests et l'intégration du code à chaque modification. CD (Continuous Delivery/Deployment) déploie automatiquement le code testé en production. C'est utile car ça évite les erreurs manuelles, détecte les bugs rapidement, et rend le développement plus rapide et fiable.
